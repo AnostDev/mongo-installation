@@ -27,3 +27,10 @@ sudo ln -s ~/mongo/mongodb-linux-x86_64-ubuntu1604-3.2.22 /usr/bin/mongo
 ```sh
 source ~/.bashrc
 ```
+
+6. Enjoy mongo db
+```sh
+mongo --version
+```
+
+A nice thing about this tuto, is that many softwares, especially those from apache foundation have a similar structure. And being able to install one, makes you fully able to install all the other ones [download, unzip, symbolic link, update .bashrc file] and that's it :).
