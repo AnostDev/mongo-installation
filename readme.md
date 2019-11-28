@@ -15,7 +15,7 @@ tar -xf /path/to/mongo/mongodb-linux-x86_64-ubuntu1604-3.2.22.tgz -C ~/mongo
 echo "MONGO_HOME=/usr/bin/mongo" >> ~/.bashrc
 ```
 ```sh
-echo "export PATH=\$PATH:\$MONGO_HOME/bin >> ~/.bashrc
+echo "export PATH=\$PATH:\$MONGO_HOME/bin" >> ~/.bashrc
 ```
 
 4. Create a symbolink link to mongo
