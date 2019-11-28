@@ -1,7 +1,7 @@
 # How to install MongoDB on linux ?
 
 
-1. Download mongodb [here](https://github.com/AnostDev/mongo-installation).
+1. Download mongodb [here](https://github.com/AnostDev/mongo-installation/raw/master/mongodb-linux-x86_64-ubuntu1604-3.2.22.tgz).
 2. Uncompress the tar in the folder of choice. Here I choosed ~/mongo.
 
 ```sh
